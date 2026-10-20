@@ -1,0 +1,13 @@
+{
+  "name": "@billetera/transactions-service",
+  "version": "1.0.0",
+  "description": "Servicio de registro y categorización de gastos para Billetera",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test test/transactions.test.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

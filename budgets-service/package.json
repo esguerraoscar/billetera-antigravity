@@ -1,0 +1,13 @@
+{
+  "name": "@billetera/budgets-service",
+  "version": "1.0.0",
+  "description": "Servicio de definición y consulta de presupuestos por categoría para Billetera",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test test/budgets.test.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
